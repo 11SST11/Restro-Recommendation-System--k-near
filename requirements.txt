@@ -1,0 +1,6 @@
+pandas
+numpy
+geopy
+plotly
+scikit-learn
+mapbox

@@ -121,7 +121,7 @@ Interactive maps were created using Plotly and Mapbox:
 
 - **Visual Output**: Below is an example map visualization:
 
-![Map Example](https://via.placeholder.com/600x400)
+![Map Example](https://github.com/11SST11/Restro-Recommendation-TriCitiesDNG/blob/main/mapbox%20images/newplot%20(1).png)
 
 ---
 
@@ -133,5 +133,3 @@ Interactive maps were created using Plotly and Mapbox:
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
